@@ -1,27 +1,30 @@
->**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
 
 
-# Project Title
 
-Describe what your project is about and what it does
+# Bike Trips
+
+This programm analyses some bike trip data and display following informations:
+- Displays statistics on the most frequent times of travel.
+- Displays statistics on the most popular stations and trip.
+- Displays statistics on the total and average trip duration.
+- Displays statistics on bikeshare users.
 
 ## Information about how to use your project
 
-This could include:
+- Pandas and numpy libs are needed
+- Execute bikeshare_starter.py will start the programm
 
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
 - Instructions and examples for how to use your project, including any helpful code snippets.
 - Common issues and troubleshooting tips
 
 ## Contribution guidelines
 
-If you welcome contributions, provide guidelines on how others can contribute to your project.
+You are welcome to contribute to our project. Look into the Issues tab on Github and figure out which task has not been worked on yet.
 
 ## Credits
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/udacity/post-your-work-project
 
 ## Date created
 
-Include the date you created this project and README file.
+28.04.2026
