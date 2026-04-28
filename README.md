@@ -13,9 +13,9 @@ This programm analyses some bike trip data and display following informations:
 
 - Pandas and numpy libs are needed
 - Execute bikeshare_starter.py will start the programm
+    -  `if __name__ == "__main__":
+	main()` 
 
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
 
 ## Contribution guidelines
 
