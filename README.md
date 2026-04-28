@@ -15,7 +15,11 @@ This programm analyses some bike trip data and display following informations:
 - Execute bikeshare_starter.py will start the programm
     -  `if __name__ == "__main__":
 	main()` 
-- Architecture of the promgram is complete. Functions need to be updated to make programm runnable.
+- Architecture of the promgram is complete. Following functions need to be updated for statistically evaluation
+    - time_stats(df)
+    - station_stats(df)
+    - trip_duration_stats(df)
+    - user_stats(df)
 
 
 ## Contribution guidelines
